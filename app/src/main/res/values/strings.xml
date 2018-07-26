@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Kotlin-MVP</string>
+
+    <string-array name="type">
+        <item>income</item>
+        <item>expense</item>
+    </string-array>
+
 </resources>
